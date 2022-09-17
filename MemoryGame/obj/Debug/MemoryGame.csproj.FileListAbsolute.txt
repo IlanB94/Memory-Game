@@ -1,0 +1,8 @@
+C:\Users\ilan\source\repos\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\ilan\source\repos\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\ilan\source\repos\MemoryGame\MemoryGame\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\ilan\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.AssemblyReference.cache
+C:\Users\ilan\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\ilan\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CopyComplete
+C:\Users\ilan\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\ilan\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
